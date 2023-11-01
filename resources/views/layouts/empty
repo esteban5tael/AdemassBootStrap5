@@ -1,0 +1,13 @@
+@extends('layouts.base')
+
+@section('title')
+    Boostrap 5 Ademass
+@endsection
+
+@section('h')
+    Boostrap 5 Ademass
+@endsection
+
+@section('content')
+{{--  --}}
+@endsection
